@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Danfo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tiny5&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+@font-face {
+  font-family: bharatanatyam2;
+  src: url(./fonts/orange\ juice\ 2.0.ttf);
+}
+@font-face {
+  font-family: kathak2;
+  src: url(./fonts/MeilaArabicDEMO-LineBold.otf);
+}
+@font-face {
+  font-family: Kathakali2;
+  src: url(./fonts/Break/Fast.otf);
+}
+@font-face {
+  font-family: Kuchipudi2;
+  src: url(./fonts/Baby/Flower.otf);
+}
+@font-face {
+  font-family: Odisha2;
+  src: url(./fonts/Shining/Starlight.otf);
+}
+h1{
+    text-align: center;
+    
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.bharatanatyam {
+    text-align: center;
+  background-color: hsl(180, 9%, 44%);
+  border: 10px solid black;
+  border: radius 10px;
+}
+
+
+#bharatanatyam1 {
+  /* font-family: "Rubik Doodle Shadow", system-ui; */
+  font-family: "Rubik Wet Paint", system-ui;
+}
+#bharatanatyam2 {
+  font-family: bharatanatyam2;
+}
+.kathak {
+  text-align: center;
+  background-color: rgb(53, 93, 93);
+  border: 10px solid black;
+  border: radius 10px;
+  font-family:cursive;
+}
+#kathak1 {
+  font-family: "Danfo", serif;
+}
+
+#kathak2 {
+  font-family: kathak2;
+}
+
+.Kathakali {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: rgb(225, 228, 213);
+  border: 10px solid black;
+  border: radius 10px;
+}
+#Kathakali1 {
+  font-family: "Tiny5", sans-serif;
+}
+
+#Kathakali2 {
+  font-family: Kathakali2;
+}
+
+.Kuchipudi {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: rgb(161, 141, 162);
+  border: 10px solid black;
+  border: radius 10px;
+}
+#Kuchipudi1 {
+  font-family: "Sixtyfour Convergence", sans-serif;
+}
+#Kuchipudi2 {
+  font-family: Kuchipudi2;
+}
+
+.Odisha {
+  font-family: inherit;
+  text-align: center;
+  background-color: rgb(223, 202, 202);
+  border: 10px solid black;
+  border: radius 10px;
+}
+#Odisha1 {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+#Odisha2 {
+  font-family: Odisha2;
+}
